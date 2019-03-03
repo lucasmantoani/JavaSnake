@@ -1,0 +1,27 @@
+canvas 
+{
+    background: black; 
+    border: 2px solid lime;
+}
+
+body 
+{ 
+    background-color: black
+}
+
+.bruh 
+{
+    display: flex; 
+    justify-content: center;
+}
+
+h1 
+{
+    text-align: center; 
+    color: lime;
+}
+#footer 
+{
+    color: limegreen;
+    text-align: center;
+}
