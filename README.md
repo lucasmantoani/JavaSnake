@@ -1,6 +1,6 @@
 # JavaS'nake
 
-<img src="asset/cap.png"/>
+<img src="assets/cap.png"/>
 Simple Snake-like game using HTML5, CSS3 and Javascript.
 
 * HTML5 was used to make the basic HTML page and create the Canevas used for the game.
