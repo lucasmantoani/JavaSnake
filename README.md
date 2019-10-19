@@ -8,4 +8,4 @@ Simple Snake-like game using HTML5, CSS3 and Javascript.
 * Javascript was used for the rest.. only 95% of the job.  ¯\\_(ツ)_/¯
 * The idea came from an article on FreeCodeCamp called "Snake Game Python Tutorial" (https://www.freecodecamp.org/news/snake-game-python-tutorial/)
 
-                                             Lucas Mantoani - 2019.
+                                             Lucas Mantoani - 2019
